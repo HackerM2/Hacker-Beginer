@@ -1,37 +1,176 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HackerM2/Hacker-Beginer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackerM2/Hacker-Beginer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCATYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Dicas Gamers </title>
+		
+		<style type="text/css">
+		
+		#cel{
+				width:6em;
+				margin:0;
+				font:15px verdana;
+				color: #E0FFFF;
+				background: black;
+				border: 3px solid #1E90FF;}
+		#cel li a {
+				text-decoration:none;
+				color: #E0FFFF;
+				
+			}
+		#cel li a:hover {
+			color: black;
+			background: white;
+			font: 20px arial black;
+		
+		}
+		
+		#computador{
+				width:6em;
+				margin:0;
+				font:15px verdana;
+				color: #FFFAFA;
+				background: #FA8072;
+				border: 3px solid black;}
+		#computador li a {
+				text-decoration:none;
+				color: #FFFAFA;
+			}
+		#computador li a:hover {
+			color: #FA8072;
+			background: white;
+			font: 20px arial black;
+		
+		}
+		
+		#console-player{
+				width:6em;
+				margin:0;
+				font:15px verdana;
+				color: white;
+				background: green;
+				border: 3px solid blue;}
+		#console-player li a {
+				text-decoration:none;
+				color: white;
+			}
+		#console-player li a:hover {
+			color: none;
+			background: none;
+			font: 20px arial black;
+		
+		}
+		
+		#praysteichon{
+				width:6em;
+				margin:0;
+				font:15px verdana;
+				color: white;
+				background: blue;
+				border: 3px  solid black;}
+		#praysteichon li a {
+				text-decoration:none;
+				color: white;
+			}
+		#praysteichon li a:hover {
+			color: blue;
+			background: white;
+			font: 20px arial black;
+		
+		}
+		
+		
+		#x-caixa{
+				width:6em;
+				margin:0;
+				font:15px verdana;
+				color: white;
+				background: green;
+				border: 3px  solid black;}
+		#x-caixa li a {
+				text-decoration:none;
+				color: white;
+			}
+		#x-caixa li a:hover {
+			color: green;
+			background: white;
+			font: 20px arial black;
+		
+		}
+		
+		
+		</style>
+	
+	</head>
+		<body>
+			<ul id="cel">
+					<li><a href="#cel" title="Os Melhores Jogos para Celular">Mobile</a>
+				</ul>
+				<ul id="computador">
+					<li><a href="#computador" title="Os Melhores Jogos para Pc (Computador)">Pc</a>
+				</ul>
+				<ul id="console-player">
+					<li><a href="#console-player" title="Os Melhores Jogos para PlayStation e/ou XBox">Consoles</a>
+				</ul>
+				<ul id="praysteichon">
+					<li><a href="#praysteichon" title="Os Melhores Jogos para o PlayStation">PlayStation</a>
+				</ul>
+				<ul id="x-caixa">
+					<li><a href="#x-caixa" title="Os Melhores Jogos para o Xbox">XBox</a>
+				</ul>
+				<ul id="muitos-lugares">
+					<li><a href="#muitos-lugares" title="Os Melhores Jogos para Todas as Platformas">Multiplataforma</a>
+			</ul>
+		
+		
+	<h2 href="cel">Mobile</h2>
+		<h3> Brawl Stars </h3>
+			<img src="https://tecnoblog.net/wp-content/uploads/2019/03/brawlstars-700x394.jpg " alt="Imagem promocional do Jogo Brawl Stars" width="400">
+			
+			<p> Texto sobre o jogo </p>
+		
+		<h3> Free Fire </h3>
+			<img src="https://tecnoblog.net/wp-content/uploads/2018/12/garena-free-fire.jpg" alt="Imagem promocional do jogo Free Fire" width="400">
+		
+			<p> Texto sobre o jogo </p>
+		
+		<h2 id="computador">Pc</h2>
+		
+		<h3> Valorant </h3>
+			<img src="" alt="Imagem promocional do jogo Valorant" width="400">
+		
+			<p> Texto sobre o jogo </p>
+		
+	<h2 id="console-player">Consoles</h2>
+		
+		<h3> Fifa's </h3>
+			<p> Texto sobre o jogo </p>
+		
+		<h3> Injustice 2 </h3>
+			<p> Texto sobre o jogo </p>
+		
+	<h2 id="Play"> PlayStation</h2>
+		
+		<h3> God of War </h3>
+			<p> Texto sobre o jogo </p>
+			
+		<h3> The Last of Us </h3>
+			<p> Texto sobre o jogo </p>
+			
+		<h3> The Last of Us: Part II </h3>
+			<p> Texto sobre o jogo </p>
+		
+	<h2 id="Xbox"> XBox </h2>
+		
+		<h3> Forza Horizon 4  </h3>
+			<p> Texto sobre o jogo </p>
+		
+	<h2 id="multiplataforma"> Multiplataforma </h2>
+		
+		<h3> Fortnite </h3>
+			<p> Texto sobre o Jogo</p>
+			
+		<h3> Minecraft</h3>
+			<p> Texto sobre o Jogo</p>
+	</body>
+<html>
